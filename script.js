@@ -11,7 +11,7 @@ const translations = {
     hero_greeting: "Olá, eu sou",
     hero_subtitle: "Desenvolvedor FullStack",
     hero_description:
-      "Tenho 19 anos e sou estudante de Ciência da Computação no UNIS-MG. Atualmente trabalho como Desenvolvedor FullStack e Tradutor na Sourei, e possuo experiência anterior na Jaguara Coffee. Busco oportunidades para aplicar meus conhecimentos acadêmicos e contribuir de forma significativa para projetos de tecnologia. Tenho inglês avançado (B2 Cambridge).",
+      "Tenho 20 anos e sou estudante de Ciência da Computação no UNIS-MG. Atualmente trabalho como Desenvolvedor FullStack e Tradutor na Sourei, e possuo experiência anterior na Jaguara Coffee. Busco oportunidades para aplicar meus conhecimentos acadêmicos e contribuir de forma significativa para projetos de tecnologia. Tenho inglês avançado (B2 Cambridge).",
     hero_cta: "Entre em contato",
     hero_projects: "Ver projetos",
     exp_title: "Experiência",
@@ -71,7 +71,7 @@ const translations = {
     hero_greeting: "Hi, I'm",
     hero_subtitle: "FullStack Developer",
     hero_description:
-      "I'm 19 years old and a Computer Science student at UNIS-MG. I currently work as a FullStack Developer and Translator at Sourei, and have previous experience at Jaguara Coffee. I'm looking for opportunities to apply my academic knowledge and contribute meaningfully to technology projects. I have advanced English (B2 Cambridge).",
+      "I'm 20 years old and a Computer Science student at UNIS-MG. I currently work as a FullStack Developer and Translator at Sourei, and have previous experience at Jaguara Coffee. I'm looking for opportunities to apply my academic knowledge and contribute meaningfully to technology projects. I have advanced English (B2 Cambridge).",
     hero_cta: "Get in touch",
     hero_projects: "See projects",
     exp_title: "Experience",
